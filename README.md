@@ -28,4 +28,6 @@ npm install
 
 - Inicie o projeto
 
-npm start
+npm start.
+
+testando git no vscode
