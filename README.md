@@ -30,4 +30,3 @@ npm install
 
 npm start.
 
-testando git no vscode
