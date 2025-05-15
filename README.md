@@ -20,7 +20,7 @@ git clone https://github.com/SaymonMello1509/gerenciador-de-contas
 
 - depois entre na pasta do projeto
 
-cd gerenciador de contas
+cd gerenciador-de-contas
 
 - Depois instale as dependencias 
 
